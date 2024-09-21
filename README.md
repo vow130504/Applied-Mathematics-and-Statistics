@@ -1,8 +1,8 @@
 ## Applied-Mathematics-and-Statistics
 
 ## Overview
-Several project from "Applied Mathematics and Statistics" course at Science of University.
----
+- Several project from "Applied Mathematics and Statistics" course at Science of University.
+
 ## Folder 
 - lab1 - Gauss
     + 22120344-1.ipynb
