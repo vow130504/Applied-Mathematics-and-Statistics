@@ -1,6 +1,6 @@
-## Applied-Mathematics-and-Statistics
+## <h1 align="center">Applied-Mathematics-and-Statistics</h1>
 
-## Overview
+## <h1 align="center">Overview</h1>
 - Several project from "Applied Mathematics and Statistics" course at Science of University.
 
 ## Folder 
